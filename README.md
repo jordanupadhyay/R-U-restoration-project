@@ -1,3 +1,3 @@
-# upadhyay
+# Roswell Upadhyay Restoration Project
 Readme text
-Github trial, just trying to get acclimated
+R code for Plant Diversity and Evolution independent research project
